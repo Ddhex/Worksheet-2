@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 	<head>
-	  <link rel="stylesheet" href="replace this.css" type="text/css">
+	  <link rel="stylesheet" href="dustin.css" type="text/css">
 	</head>
 	  
 		<body><p>Lorem Ipsum is simply dummy text of the 
@@ -18,13 +18,11 @@
 		versions of Lorem Ipsum.</p>
 			<div>
 				<header>
-				  <nav>
+				  <nav>This is the nav
 	          <li>Home
 	           <li>about
 	            <li>Content
-	         <nav>
-					<nav> This is the nav
-					</nav>
+	         </nav>
 				</header>
 					<section> this is the section
 					</section>
